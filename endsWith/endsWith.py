@@ -1,0 +1,3 @@
+def solution(string, ending):
+    # your code here...
+    return string.endswith(ending)
